@@ -1,0 +1,12 @@
+.register-form .register-btn {
+    width: 100%;
+    height: 30px;
+    background-color: #4a8af4;
+    border: 1px solid #4a8af4;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.register-form .title {
+    width: 300px;
+}
